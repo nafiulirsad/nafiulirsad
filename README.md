@@ -1,4 +1,3 @@
-Hello, I'm passionate about web-based full-stack software development. I learn by working with various programming languages and frameworks, including HTML, CSS, PHP, JavaScript, CodeIgniter, Laravel, Node.js, Express, Angular, Tailwind CSS, Bootstrap, jQuery, Datatables, MySQL, PostgreSQL, and MongoDB. I'm eager to learn new technologies and adapt to different work environments.Hello, I'm passionate about web-based full-stack software development. I learn by working with various programming languages and frameworks, including HTML, CSS, PHP, JavaScript, CodeIgniter, Laravel, Node.js, Express, Angular, Tailwind CSS, Bootstrap, jQuery, Datatables, MySQL, PostgreSQL, and MongoDB. I'm eager to learn new technologies and adapt to different work environments.
 # Hi there, I'm Nafiul Irsad 👋
 
 Welcome to my GitHub profile! I'm passionate about **web-based full-stack software development**, and I'm always eager to learn and grow in this exciting field.
